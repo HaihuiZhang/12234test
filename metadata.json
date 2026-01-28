@@ -1,0 +1,5 @@
+{
+  "name": "Acoustic Metamaterial Designer",
+  "description": "A sophisticated web-based simulation environment for designing, visualizing, and analyzing 2D acoustic metamaterials and phononic crystals. Features real-time FDTD wave propagation and AI-assisted engineering.",
+  "requestFramePermissions": []
+}
